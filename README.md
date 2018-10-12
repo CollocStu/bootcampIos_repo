@@ -1,6 +1,6 @@
-# Project IOS - *No name yet*
+# Project IOS - *House-mate*
 
-**No name yet** is a app for students to find cheap apartments.
+**House-mate** is a app for students to find cheap apartments.
 
 
 Time spent: **x** hours spent in total
